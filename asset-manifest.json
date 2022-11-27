@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/asos-website-dusty-jewel-3645.git/static/css/main.edaf75d0.css",
-    "main.js": "/asos-website-dusty-jewel-3645.git/static/js/main.a4e91705.js",
+    "main.js": "/asos-website-dusty-jewel-3645.git/static/js/main.07b80967.js",
     "static/js/787.148ed6eb.chunk.js": "/asos-website-dusty-jewel-3645.git/static/js/787.148ed6eb.chunk.js",
     "static/media/img3.png": "/asos-website-dusty-jewel-3645.git/static/media/img3.2c0d25a140fb75ecdc20.png",
     "static/media/img2.png": "/asos-website-dusty-jewel-3645.git/static/media/img2.da21fc859b389443ca72.png",
@@ -13,11 +13,11 @@
     "static/media/slick.woff": "/asos-website-dusty-jewel-3645.git/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/asos-website-dusty-jewel-3645.git/index.html",
     "main.edaf75d0.css.map": "/asos-website-dusty-jewel-3645.git/static/css/main.edaf75d0.css.map",
-    "main.a4e91705.js.map": "/asos-website-dusty-jewel-3645.git/static/js/main.a4e91705.js.map",
+    "main.07b80967.js.map": "/asos-website-dusty-jewel-3645.git/static/js/main.07b80967.js.map",
     "787.148ed6eb.chunk.js.map": "/asos-website-dusty-jewel-3645.git/static/js/787.148ed6eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edaf75d0.css",
-    "static/js/main.a4e91705.js"
+    "static/js/main.07b80967.js"
   ]
 }
